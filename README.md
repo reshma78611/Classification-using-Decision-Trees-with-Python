@@ -1,3 +1,3 @@
 # Classification-using-Decision-Trees-with-Python
 Classification using Decision Trees with Python.
-datasets: iris,company_data, Fraud Check
+datasets: iris,company_data, Fraud_check
